@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "ES2020",
+      "strictNullChecks": true,
+      "strictBindCallApply": true,
+      "sourceMap": false,
+      "experimentalDecorators": true,
+    },
+    "files": [
+      "lib/kernel.ts",
+      "bin/itypescript.ts"
+    ]
+  }

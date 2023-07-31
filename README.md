@@ -20,3 +20,5 @@
 
 ## 설치 참고 문서 
 https://github.com/winnekes/itypescript
+
+### 타입스크립트 컨피그 : 데코레이터 작성할 때 필요 tsconfig.json을 만들어야 함 
