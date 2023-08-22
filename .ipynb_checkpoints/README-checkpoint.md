@@ -22,3 +22,4 @@
 https://github.com/winnekes/itypescript
 
 ### 타입스크립트 컨피그 : 데코레이터 작성할 때 필요 tsconfig.json을 만들어야 함 
+- 터미날 창을 열고 tsc --init 명령을 통해 tsconfig.json 을 생성
